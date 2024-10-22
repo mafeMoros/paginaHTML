@@ -1,0 +1,66 @@
+.navbar{
+    background-color: rgb(13, 185, 179);
+    overflow: hidden;
+    display: flex;
+    justify-content:space-around ;
+}
+body{
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.navbar a {
+    float: left;
+    display: block;
+    color: #2616d2fc;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+.title {
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    color: #2616d2fc;
+}
+.descripcion {
+    padding: 10px 50px 30px 50px;
+    background-color: #4292edaa;
+}
+header {
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-tecnologia-digital-alambre-malla-red_1017-27428.jpg?t=st=1729256376~exp=1729259976~hmac=1fd61b6bbc3aa995c646241c5de989077337589b12522251a25b079f71beba6b&w=1380");
+    background-size: cover;
+    height: 50vh;
+}
+
+.contenido {
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-tecnologia-digital-alambre-malla-red_1017-27428.jpg?t=st=1729256376~exp=1729259976~hmac=1fd61b6bbc3aa995c646241c5de989077337589b12522251a25b079f71beba6b&w=1380");
+    background-size: cover;
+}
+.table-contactenos {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.text-contactenos {
+    padding: 1rem;
+}
+.vision{
+    padding: 10px 50px 30px 50px;
+    text-align: center;
+    background-color: #11b4d070;
+}
+.mision{
+    padding: 10px 50px 30px 50px;
+    background-color: #11b4d070;
+    text-align: center;
+}
+footer{
+    padding-top: 20px;
+    width: 100%;
+    height: 150px;
+    background-color: rgb(13, 185, 179);
+    color: #2616d2fc;
+    text-align:center
+}
+
+
